@@ -8,10 +8,13 @@ Repository contains my solutions for tasks that were offered on open YSDA [cours
 Make machine translation system with two kindred Slavic languages: Ukrainian and Russian.
 
 + ## [Prohibited Comment Classification](https://github.com/grgera/YSDA-nlp/blob/main/Solutions/2_homework.ipynb)
-Build an algorithm that classifies social media comments into normal or toxic. Solving it with Bag of Words, TF-IDF and FastText.
+Build an algorithm that classifies social media comments into normal or toxic. Solving it with `Bag of Words`, `TF-IDF` and `FastText`.
 
 + ## [Language Modeling](https://github.com/grgera/YSDA-nlp/blob/main/Solutions/3_homework.ipynb)
 How to write scientific papers? Train language model on a corpora of ArXiv articles and see if we can generate a new one!
 
-+ ## ~~Machine Translation~~ 
++ ## [Machine Translation](https://github.com/grgera/YSDA-nlp/blob/main/Solutions/4_Attention.ipynb) 
+Implementation encoder-decoder Seq2seq model with `Attention` and `BPE` tokens.
+
++ ## ~~Named Entity Recognition~~
 *In progress...*
