@@ -16,5 +16,5 @@ How to write scientific papers? Train language model on a corpora of ArXiv artic
 + ## [Machine Translation](https://github.com/grgera/YSDA-nlp/blob/main/Solutions/4_Attention.ipynb) 
 Implementation encoder-decoder Seq2seq model with `Attention` and `BPE` tokens.
 
-+ ## ~~Named Entity Recognition~~
-*In progress...*
++ ## [Named Entity Recognition](https://github.com/grgera/YSDA-nlp/blob/main/Solutions/5_homework/5_homework.ipynb)
+Research of the `NER` problem with different source and target domains of data.
